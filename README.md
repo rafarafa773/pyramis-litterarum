@@ -10,7 +10,7 @@ A simple project written in C that builds a pyramid with any text you provide.
 
 You give it a word or phrase, and it prints a beautiful pyramid pattern in the terminal.
 
-## 📸 Example
+## Example
 
 ```bash
 $ ./pyramis "ABC"
